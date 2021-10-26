@@ -9,8 +9,8 @@ const lightTheme = {
 };
 
 const darkTheme = {
-  color: "#D3D4E6",
   backgroundColor: "#39424E",
+  color: "#D3D4E6",
   button: {
     textColor: "#151A69",
     borderColor: "#151A69",
